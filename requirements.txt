@@ -1,0 +1,5 @@
+openpyxl
+pandas_datareader
+oauth2client==4.1.3
+google-api-python-client
+pytest==7.2.0
